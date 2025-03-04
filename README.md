@@ -46,7 +46,7 @@ I like to lie back in my chair and read on my Kindle, but after a while, holding
 
 ## Demo
 
-- **[Kindle Gesture Remote Page Turning](https://www.bilibili.com/video/BV1gT9bYgE8U/?share_source=copy_web&vd_source=d9f751aff1782643133f83d15e916fa8)**
+- **[Kindle Gesture Remote Page Turning](https://youtube.com/shorts/Up9GAZ5MwEQ?si=uKGT7GlC87j-Y36v)**
 
 ## References & Related Projects
 
